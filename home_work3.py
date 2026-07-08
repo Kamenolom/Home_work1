@@ -12,7 +12,7 @@ elif operation == "/":
         result = number1 / number2
     else:
         result  = "Enter correct number not '0'"
-    print("Your result is:" ,result)
+print("Your result is:" ,result)
 
 
 
