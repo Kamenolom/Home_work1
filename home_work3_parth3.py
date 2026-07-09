@@ -13,8 +13,10 @@
 # numbers.insert(0,magic)
 # print(numbers)
 
-
-
+# numbers1 = []
+# numbers2 = []
+# result = [numbers1 , numbers2]
+# print(result)
 
 
 
