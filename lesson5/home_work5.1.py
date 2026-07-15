@@ -13,6 +13,7 @@ while True:
             result = num1 / num2
         else:
             print("Enter correct number, not 0!")
+            continue
     print(result)
     answer = input("Do you want to continue?Enter: 'y' or 'n' :")
     if answer == 'y':
